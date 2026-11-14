@@ -13,7 +13,8 @@
   "files": [
     "Fundamentalism.js",
     "Fundamentalism.d.ts",
-    "Fundamentalism.js.map"
+    "Fundamentalism.js.map",
+    "Fundamentalism.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
